@@ -191,7 +191,9 @@ const deleteComicBook = async(req, res)=>{
         }
 
         if(comic.deletedCount === 1){
-            resFunc(res,200,true,"Deleted successfully",{});
+            return resFunc(res,200,true,"Deleted successfully",{});
+        }else{
+            return resFunc(res,404,true,"Not Found : Please Check ID Once Again.",{});
         }
         
     } catch (error) {
