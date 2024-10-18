@@ -17,6 +17,6 @@
     "mongoose": "^8.7.1",
     "nodemon": "^3.1.7",
     "path": "^0.12.7",
-    "req-res-handlers": "^0.0.1"
+    "req-res-handlers": "^0.0.4"
   }
 }

@@ -4,8 +4,45 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+          theme: {
+            extend: {
+              colors: {
+                clifford: '#da373d',
+              }
+            }
+          }
+        }
+      </script>
+      <style type="text/tailwindcss">
+        @layer utilities {
+          .content-auto {
+            content-visibility: auto;
+          }
+        }
+      </style>
+      <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp,container-queries"></script>
 </head>
 <body>
-    <h1>Am online</h1>
+   <main class=" w-screen h-screen flex justify-center item-center">
+    <div class="w-full lg:w-[50%] h-[50%] border-2 border-gray-150 gap-5 my-auto flex flex-col justify-between rounded-lg shadow-2xl">
+        <header class="w-full px-5 h-[80px] border-b-2 border-gray-150 flex flex-row justify-between item-center rounded-t-lg shadow-md">
+            <div class="my-auto text-xl font-bold">Comic Book Backend(REST API)</div>
+            <div class=" my-auto flex justify-envenly item-center gap-2">
+                <span class="w-3 h-3 p-2 shadow-xl rounded-full bg-black "></span>
+                <span class="w-3 h-3 p-2 shadow-xl rounded-full bg-black "></span>
+                <span class="w-3 h-3 p-2 shadow-xl rounded-full bg-black "></span>
+            </div>
+        </header>
+        <div class="w-full h-full flex flex-col justify-center item-center my-2 mx-5">
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero quae vero quas veniam et. Dolore ducimus optio assumenda libero officia blanditiis numquam harum nihil beatae eius doloremque deserunt nemo fuga laboriosam a similique magni, sed adipisci expedita id rerum non consectetur. Ipsum fuga enim nam, ipsam laudantium est unde mollitia nisi quisquam aliquid! Ipsa, maxime quas, tempore quidem dolorem dolore doloremque veniam qui ullam quam excepturi, nisi eaque! Sint quos veritatis facere perferendis, soluta itaque enim beatae alias doloremque! Nam.</p>
+        </div>
+        <footer class="w-full h-10 border-t-2 border-gray-150 px-5 h-[50px] flex flex-row justify-between item-center rounded-b-lg shadow-md">
+            <span class="my-auto mx-auto">AK</span>
+        </footer>
+    </div>
+   </main>
 </body>
 </html>

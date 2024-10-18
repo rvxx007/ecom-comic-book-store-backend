@@ -1,0 +1,416 @@
+[
+  {
+    "bookName": "The Amazing Spider-Man",
+    "authorName": "Stan Lee",
+    "yearOfPublication": 1962,
+    "price": 19.99,
+    "numberOfPages": 32,
+    "condition": "new",
+    "quantity": 7
+  },
+  {
+    "bookName": "Batman: Year One",
+    "authorName": "Frank Miller",
+    "yearOfPublication": 1987,
+    "price": 15.99,
+    "numberOfPages": 40,
+    "condition": "used",
+    "quantity": 5
+  },
+  {
+    "bookName": "X-Men: Days of Future Past",
+    "authorName": "Chris Claremont",
+    "yearOfPublication": 1981,
+    "price": 25.00,
+    "numberOfPages": 48,
+    "condition": "new",
+    "quantity": 3
+  },
+  {
+    "bookName": "Watchmen",
+    "authorName": "Alan Moore",
+    "yearOfPublication": 1986,
+    "price": 29.99,
+    "numberOfPages": 416,
+    "condition": "used",
+    "quantity": 4
+  },
+  {
+    "bookName": "The Dark Knight Returns",
+    "authorName": "Frank Miller",
+    "yearOfPublication": 1986,
+    "price": 24.99,
+    "numberOfPages": 224,
+    "condition": "new",
+    "quantity": 6
+  },
+  {
+    "bookName": "Green Lantern: Rebirth",
+    "authorName": "Geoff Johns",
+    "yearOfPublication": 2004,
+    "price": 17.99,
+    "numberOfPages": 144,
+    "condition": "used",
+    "quantity": 2
+  },
+  {
+    "bookName": "Sandman: Preludes & Nocturnes",
+    "authorName": "Neil Gaiman",
+    "yearOfPublication": 1989,
+    "price": 19.99,
+    "numberOfPages": 192,
+    "condition": "new",
+    "quantity": 8
+  },
+  {
+    "bookName": "Saga, Vol. 1",
+    "authorName": "Brian K. Vaughan",
+    "yearOfPublication": 2012,
+    "price": 9.99,
+    "numberOfPages": 152,
+    "condition": "new",
+    "quantity": 10
+  },
+  {
+    "bookName": "Ms. Marvel, Vol. 1",
+    "authorName": "G. Willow Wilson",
+    "yearOfPublication": 2014,
+    "price": 14.99,
+    "numberOfPages": 120,
+    "condition": "used",
+    "quantity": 5
+  },
+  {
+    "bookName": "Deadpool: Dead Presidents",
+    "authorName": "Brian Posehn",
+    "yearOfPublication": 2013,
+    "price": 19.99,
+    "numberOfPages": 120,
+    "condition": "new",
+    "quantity": 3
+  },
+  {
+    "bookName": "Iron Man: Extremis",
+    "authorName": "Warren Ellis",
+    "yearOfPublication": 2005,
+    "price": 21.99,
+    "numberOfPages": 112,
+    "condition": "used",
+    "quantity": 4
+  },
+  {
+    "bookName": "The Walking Dead, Vol. 1",
+    "authorName": "Robert Kirkman",
+    "yearOfPublication": 2003,
+    "price": 10.99,
+    "numberOfPages": 144,
+    "condition": "new",
+    "quantity": 7
+  },
+  {
+    "bookName": "Captain America: The Winter Soldier",
+    "authorName": "Ed Brubaker",
+    "yearOfPublication": 2004,
+    "price": 16.99,
+    "numberOfPages": 192,
+    "condition": "used",
+    "quantity": 2
+  },
+  {
+    "bookName": "Thor: God of Thunder, Vol. 1",
+    "authorName": "Jason Aaron",
+    "yearOfPublication": 2013,
+    "price": 17.99,
+    "numberOfPages": 152,
+    "condition": "new",
+    "quantity": 9
+  },
+  {
+    "bookName": "Fables, Vol. 1",
+    "authorName": "Bill Willingham",
+    "yearOfPublication": 2002,
+    "price": 14.99,
+    "numberOfPages": 144,
+    "condition": "used",
+    "quantity": 5
+  },
+  {
+    "bookName": "Ultimate Spider-Man, Vol. 1",
+    "authorName": "Brian Michael Bendis",
+    "yearOfPublication": 2000,
+    "price": 12.99,
+    "numberOfPages": 224,
+    "condition": "new",
+    "quantity": 6
+  },
+  {
+    "bookName": "Black Panther: A Nation Under Our Feet, Vol. 1",
+    "authorName": "Ta-Nehisi Coates",
+    "yearOfPublication": 2016,
+    "price": 19.99,
+    "numberOfPages": 168,
+    "condition": "used",
+    "quantity": 4
+  },
+  {
+    "bookName": "Bone: Out from Boneville",
+    "authorName": "Jeff Smith",
+    "yearOfPublication": 2005,
+    "price": 12.99,
+    "numberOfPages": 192,
+    "condition": "new",
+    "quantity": 8
+  },
+  {
+    "bookName": "Locke & Key, Vol. 1",
+    "authorName": "Joe Hill",
+    "yearOfPublication": 2008,
+    "price": 15.99,
+    "numberOfPages": 144,
+    "condition": "used",
+    "quantity": 3
+  },
+  {
+    "bookName": "Preacher, Vol. 1",
+    "authorName": "Garth Ennis",
+    "yearOfPublication": 1995,
+    "price": 16.99,
+    "numberOfPages": 224,
+    "condition": "new",
+    "quantity": 5
+  },
+  {
+    "bookName": "Hellboy: Seed of Destruction",
+    "authorName": "Mike Mignola",
+    "yearOfPublication": 1994,
+    "price": 14.99,
+    "numberOfPages": 144,
+    "condition": "used",
+    "quantity": 6
+  },
+  {
+    "bookName": "The League of Extraordinary Gentlemen, Vol. 1",
+    "authorName": "Alan Moore",
+    "yearOfPublication": 2000,
+    "price": 18.99,
+    "numberOfPages": 224,
+    "condition": "new",
+    "quantity": 7
+  },
+  {
+    "bookName": "Wolverine: Old Man Logan",
+    "authorName": "Mark Millar",
+    "yearOfPublication": 2008,
+    "price": 19.99,
+    "numberOfPages": 192,
+    "condition": "used",
+    "quantity": 4
+  },
+  {
+    "bookName": "Wonder Woman: The Hiketeia",
+    "authorName": "Greg Rucka",
+    "yearOfPublication": 2002,
+    "price": 16.99,
+    "numberOfPages": 96,
+    "condition": "new",
+    "quantity": 9
+  },
+  {
+    "bookName": "Invincible, Vol. 1",
+    "authorName": "Robert Kirkman",
+    "yearOfPublication": 2003,
+    "price": 15.99,
+    "numberOfPages": 144,
+    "condition": "used",
+    "quantity": 3
+  },
+  {
+    "bookName": "Maus: A Survivor's Tale",
+    "authorName": "Art Spiegelman",
+    "yearOfPublication": 1986,
+    "price": 25.00,
+    "numberOfPages": 296,
+    "condition": "new",
+    "quantity": 2
+  },
+  {
+    "bookName": "Y: The Last Man, Vol. 1",
+    "authorName": "Brian K. Vaughan",
+    "yearOfPublication": 2002,
+    "price": 16.99,
+    "numberOfPages": 192,
+    "condition": "used",
+    "quantity": 6
+  },
+  {
+    "bookName": "Ghost World",
+    "authorName": "Daniel Clowes",
+    "yearOfPublication": 1997,
+    "price": 14.99,
+    "numberOfPages": 80,
+    "condition": "new",
+    "quantity": 8
+  },
+  {
+    "bookName": "Scott Pilgrim's Precious Little Life",
+    "authorName": "Bryan Lee O'Malley",
+    "yearOfPublication": 2004,
+    "price": 12.99,
+    "numberOfPages": 168,
+    "condition": "used",
+    "quantity": 4
+  },
+  {
+    "bookName": "The Flash: The Rebirth",
+    "authorName": "Geoff Johns",
+    "yearOfPublication": 2009,
+    "price": 17.99,
+    "numberOfPages": 128,
+    "condition": "new",
+    "quantity": 7
+  },
+  {
+    "bookName": "The New Frontier",
+    "authorName": "Darwyn Cooke",
+    "yearOfPublication": 2004,
+    "price": 19.99,
+    "numberOfPages": 144,
+    "condition": "used",
+    "quantity": 3
+  },
+  {
+      "bookName": "Ms. Marvel: No Normal",
+      "authorName": "G. Willow Wilson",
+      "yearOfPublication": 2014,
+      "price": 14.99,
+      "numberOfPages": 120,
+      "condition": "used",
+      "quantity": 5
+    },
+    {
+      "bookName": "The Vision",
+      "authorName": "Tom King",
+      "yearOfPublication": 2015,
+      "price": 19.99,
+      "numberOfPages": 120,
+      "condition": "new",
+      "quantity": 6
+    },
+    {
+      "bookName": "Ninja Turtles: The IDW Collection, Vol. 1",
+      "authorName": "Kevin Eastman",
+      "yearOfPublication": 2011,
+      "price": 24.99,
+      "numberOfPages": 368,
+      "condition": "used",
+      "quantity": 3
+    },
+    {
+      "bookName": "Teen Titans: The Judas Contract",
+      "authorName": "Marv Wolfman",
+      "yearOfPublication": 1984,
+      "price": 18.99,
+      "numberOfPages": 144,
+      "condition": "new",
+      "quantity": 8
+    },
+    {
+      "bookName": "Giant Days, Vol. 1",
+      "authorName": "John Allison",
+      "yearOfPublication": 2015,
+      "price": 14.99,
+      "numberOfPages": 120,
+      "condition": "used",
+      "quantity": 2
+    },
+    {
+      "bookName": "Batman: The Long Halloween",
+      "authorName": "Jeph Loeb",
+      "yearOfPublication": 1996,
+      "price": 19.99,
+      "numberOfPages": 384,
+      "condition": "new",
+      "quantity": 5
+    },
+    {
+      "bookName": "Ultimate X-Men, Vol. 1",
+      "authorName": "Mark Millar",
+      "yearOfPublication": 2001,
+      "price": 16.99,
+      "numberOfPages": 192,
+      "condition": "used",
+      "quantity": 4
+    },
+    {
+      "bookName": "The Wicked + The Divine, Vol. 1",
+      "authorName": "Kieron Gillen",
+      "yearOfPublication": 2014,
+      "price": 14.99,
+      "numberOfPages": 144,
+      "condition": "new",
+      "quantity": 6
+    },
+    {
+      "bookName": "Animal Man: The Hero Routine",
+      "authorName": "Grant Morrison",
+      "yearOfPublication": 1988,
+      "price": 15.99,
+      "numberOfPages": 144,
+      "condition": "used",
+      "quantity": 3
+    },
+    {
+      "bookName": "Paper Girls, Vol. 1",
+      "authorName": "Brian K. Vaughan",
+      "yearOfPublication": 2015,
+      "price": 12.99,
+      "numberOfPages": 168,
+      "condition": "new",
+      "quantity": 9
+    },
+    {
+      "bookName": "Ghost Rider: The Complete Collection, Vol. 1",
+      "authorName": "Garth Ennis",
+      "yearOfPublication": 2006,
+      "price": 19.99,
+      "numberOfPages": 288,
+      "condition": "used",
+      "quantity": 4
+    },
+    {
+      "bookName": "Star Wars: Darth Vader, Vol. 1",
+      "authorName": "Kieron Gillen",
+      "yearOfPublication": 2015,
+      "price": 16.99,
+      "numberOfPages": 144,
+      "condition": "new",
+      "quantity": 5
+    },
+    {
+      "bookName": "Batman: Hush",
+      "authorName": "Jeph Loeb",
+      "yearOfPublication": 2003,
+      "price": 24.99,
+      "numberOfPages": 384,
+      "condition": "used",
+      "quantity": 3
+    },
+    {
+      "bookName": "Wonder Woman: The Trial of Diana Prince",
+      "authorName": "Dennis O'Neil",
+      "yearOfPublication": 1975,
+      "price": 15.99,
+      "numberOfPages": 184,
+      "condition": "new",
+      "quantity": 8
+    },
+    {
+      "bookName": "Captain Marvel: Higher, Further, Faster, More",
+      "authorName": "Kelly Sue DeConnick",
+      "yearOfPublication": 2016,
+      "price": 17.99,
+      "numberOfPages": 120,
+      "condition": "used",
+      "quantity": 6
+    }
+]

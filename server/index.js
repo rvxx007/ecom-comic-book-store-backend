@@ -11,13 +11,16 @@ const __dirname = dirname(__filename);
 
 import cors from 'cors';
 import mdb from './src/Config/db.js';
+import comicBookRouter from './src/Routes/comicBookRoute.js';
 
 const PORT = process.env.PORT || 5000;
 
-//Middlewares
+//Middlewares for body parsing
 app.use(express.json());
 app.use(express.urlencoded({extended:false}));
+// use for handling Cross Origin Related Errors
 app.use(cors())
+//  use for make any directory as public  
 app.use(express.static('./src/public'));
 
 
@@ -26,6 +29,8 @@ app.get('/',(req,res)=>{
     res.sendFile(path.join(__dirname+'/src/View/index.html'));
 });
 
+// ComicBook Route
+app.use('/api/v1/comics', comicBookRouter);
 
 
 
