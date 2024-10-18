@@ -34,9 +34,6 @@ The E-Commerce Comic Book Store REST API is designed to empower store owners wit
    ```bash
    npm run dev
 
-
-   ## API Endpoints
-
 - **POST /comics**: Create a new comic book entry.
     /api/v1/comics/create
 
